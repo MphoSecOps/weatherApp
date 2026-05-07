@@ -32,6 +32,13 @@ The app allows users to search for South African cities and view real-time weath
 
 ---
 
+---
+
+🔑 API Setup
+const apiKey = "YOUR_API_KEY";
+
+---
+
 ## 🌍 Example Cities
 
 * Johannesburg
